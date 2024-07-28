@@ -1,8 +1,6 @@
-- Hi 👋, i am Tofid
+- Hi 👋
 - Who fascinated in Flutter Mobile Developer
 - Open for collaboration
-- Inbox toviddd@gmail.com
-- Buy coffee https://www.buymeacoffee.com/tofid
 
 
 <div>
