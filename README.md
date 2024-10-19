@@ -1,6 +1,7 @@
 - Hi 👋
 - Who fascinated in Flutter Mobile Developer
 - Open for collaboration
+- [Connect my linkedin](https://www.linkedin.com/in/tofid)
 
 
 <div>
